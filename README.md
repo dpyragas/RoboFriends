@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Simple beginner app made while learning React framework.<br />
 To run the project:<br />
 1.Clone this repo.<br />
-2.Run ### `npm install`<br />
-3.Run ### `npm start`<br />
+2.Run  `npm install`<br />
+3.Run  `npm start`<br />
 
 In the project directory, you can run:
 

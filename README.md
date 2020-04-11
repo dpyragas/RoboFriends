@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## RoboFriends app made with React
 
 Simple beginner app made while learning React framework.
+To run the project:
+1.Clone this repo.
+2.Run ### `npm install`
+3.Run ### `npm start`
 
 In the project directory, you can run:
 

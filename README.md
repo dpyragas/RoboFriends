@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## RoboFriends app made with React
+
+Simple beginner app made while learning React framework.
 
 In the project directory, you can run:
 
